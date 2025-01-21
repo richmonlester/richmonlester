@@ -49,8 +49,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="26" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
+  <a href="https://www.facebook.com/richmxnlester/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="26" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/richmonlester/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
+
+
