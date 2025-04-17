@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="giphy.gif?raw=true" width="450px">
-</div>
+
 
 ###
 
